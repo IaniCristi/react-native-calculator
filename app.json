@@ -25,7 +25,8 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "package",
+      "package": "com.Calculator",
+      "versionCode": 1
     },
   }
 }
